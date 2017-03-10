@@ -394,7 +394,7 @@ namespace IST.DAL
             {
                 ThemaId = themas.Count + 1,
                 ThemaNaam = "vrije tijd",
-                ThemaTekst = "Je krijgt vragen over werk",
+                ThemaTekst = "Je krijgt vragen over vrije tijd",
                 Standpunten = new List<PartijStandpunt>(),
                 Vragen = new List<Vraag>(),
                 ThemaImageUrl = "someThemaImgUrl"
