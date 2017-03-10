@@ -14,7 +14,7 @@ namespace IST.BL.Domain
         public Eigenschap Eigenschap { get; set; }
         public string Waarde { get; set; }
     }
-
+    
 
     public class VraagVoorwaarde : Voorwaarde
     {

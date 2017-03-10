@@ -10,6 +10,8 @@ namespace IST.UI.CA
     {
         static void Main(string[] args)
         {
+            //test aanpassing voor github
+            String stacy = "Stacy";
         }
     }
 }

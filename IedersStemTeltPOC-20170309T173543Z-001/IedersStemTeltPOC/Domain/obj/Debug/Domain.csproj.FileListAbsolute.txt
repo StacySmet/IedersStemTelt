@@ -8,3 +8,8 @@ C:\Users\Stacy\Downloads\IedersStemTeltPOC-20170309T173543Z-001\IedersStemTeltPO
 C:\Users\Stacy\Downloads\IedersStemTeltPOC-20170309T173543Z-001\IedersStemTeltPOC\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 C:\Users\Stacy\Downloads\IedersStemTeltPOC-20170309T173543Z-001\IedersStemTeltPOC\Domain\obj\Debug\IST.BL.Domain.dll
 C:\Users\Stacy\Downloads\IedersStemTeltPOC-20170309T173543Z-001\IedersStemTeltPOC\Domain\obj\Debug\IST.BL.Domain.pdb
+C:\Users\Wannes\Documents\KDG16-17\Integratieproject\hello-world\IedersStemTeltPOC-20170309T173543Z-001\IedersStemTeltPOC\Domain\bin\Debug\IST.BL.Domain.dll
+C:\Users\Wannes\Documents\KDG16-17\Integratieproject\hello-world\IedersStemTeltPOC-20170309T173543Z-001\IedersStemTeltPOC\Domain\bin\Debug\IST.BL.Domain.pdb
+C:\Users\Wannes\Documents\KDG16-17\Integratieproject\hello-world\IedersStemTeltPOC-20170309T173543Z-001\IedersStemTeltPOC\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Wannes\Documents\KDG16-17\Integratieproject\hello-world\IedersStemTeltPOC-20170309T173543Z-001\IedersStemTeltPOC\Domain\obj\Debug\IST.BL.Domain.dll
+C:\Users\Wannes\Documents\KDG16-17\Integratieproject\hello-world\IedersStemTeltPOC-20170309T173543Z-001\IedersStemTeltPOC\Domain\obj\Debug\IST.BL.Domain.pdb
