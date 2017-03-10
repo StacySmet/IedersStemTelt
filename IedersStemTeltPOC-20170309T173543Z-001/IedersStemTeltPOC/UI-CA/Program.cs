@@ -12,6 +12,8 @@ namespace IST.UI.CA
         {
             //test aanpassing voor github
             String stacy = "Stacy";
+            //nieuwe aanpassing
+            stacy string = string
         }
     }
 }
