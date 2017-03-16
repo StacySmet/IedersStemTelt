@@ -8,3 +8,8 @@ C:\KdG\2de jaar\Integratie project\IedersStemTeltPOC-20170310T101044Z-001\Ieders
 C:\KdG\2de jaar\Integratie project\IedersStemTeltPOC-20170310T101044Z-001\IedersStemTeltPOC\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 C:\KdG\2de jaar\Integratie project\IedersStemTeltPOC-20170310T101044Z-001\IedersStemTeltPOC\Domain\obj\Debug\IST.BL.Domain.dll
 C:\KdG\2de jaar\Integratie project\IedersStemTeltPOC-20170310T101044Z-001\IedersStemTeltPOC\Domain\obj\Debug\IST.BL.Domain.pdb
+D:\VisualStudio\github\hello-world\IedersStemTeltPOCSeppe\Domain\bin\Debug\IST.BL.Domain.dll
+D:\VisualStudio\github\hello-world\IedersStemTeltPOCSeppe\Domain\bin\Debug\IST.BL.Domain.pdb
+D:\VisualStudio\github\hello-world\IedersStemTeltPOCSeppe\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\VisualStudio\github\hello-world\IedersStemTeltPOCSeppe\Domain\obj\Debug\IST.BL.Domain.dll
+D:\VisualStudio\github\hello-world\IedersStemTeltPOCSeppe\Domain\obj\Debug\IST.BL.Domain.pdb
