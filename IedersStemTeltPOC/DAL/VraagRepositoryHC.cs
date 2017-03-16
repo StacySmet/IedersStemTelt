@@ -393,12 +393,25 @@ namespace IST.DAL
             Thema t3 = new Thema()
             {
                 ThemaId = themas.Count + 1,
-                ThemaNaam = "Werk",
-                ThemaTekst = "Je krijgt vragen over werk",
+                ThemaNaam = "vrije tijd",
+                ThemaTekst = "Je krijgt vragen over vrije tijd",
                 Standpunten = new List<PartijStandpunt>(),
                 Vragen = new List<Vraag>(),
                 ThemaImageUrl = "someThemaImgUrl"
             };
+
+            Vraag t3v1 = new Vraag()
+            {
+                VraagId = vragen.Count + 1,
+                Antwoorden = new List<Antwoord>(),
+                Voorwaarden = new List<VraagVoorwaarde>(),
+                VraagTekst = "Je hebt een stage gedaan via de VDAB in een restaurant in de keuken. Je krijgt een tijdelijk contract aangeboden aan het minimumloon. Je moet wel je hoofddoek afzetten tijdens het werk.",
+                VraagKernTekst = "werken aan minimumloon?",
+                Thema = t3,
+                VraagImageUrl = "someVraagImgUrl"
+            };
+            t3.Vragen.Add(t3v1);
+            vragen.Add(t3v1);
             //todo: dummydata verder aanvullen 
 
         }
