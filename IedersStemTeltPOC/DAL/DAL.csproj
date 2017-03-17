@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EigenschapRepository.cs" />
+    <Compile Include="GebruikerRepository.cs" />
     <Compile Include="IEigenschapRepository.cs" />
     <Compile Include="IGebruikerRepository.cs" />
     <Compile Include="IVraagRepository.cs" />

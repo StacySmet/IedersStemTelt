@@ -1,4 +1,0 @@
-C:\Users\Gwen\Dropbox\A_TI1617KdG\Integratieproject_1617\IedersStemTeltPOC\UI-CA\bin\Debug\UI-CA.exe.config
-C:\Users\Gwen\Dropbox\A_TI1617KdG\Integratieproject_1617\IedersStemTeltPOC\UI-CA\bin\Debug\IST.UI.CA.exe.config
-C:\KdG\2de jaar\Integratie project\IedersStemTeltPOC-20170310T101044Z-001\IedersStemTeltPOC\UI-CA\bin\Debug\IST.UI.CA.exe.config
-C:\KdG\2de jaar\Integratie project\IedersStemTeltPOC-20170310T101044Z-001\IedersStemTeltPOC\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
