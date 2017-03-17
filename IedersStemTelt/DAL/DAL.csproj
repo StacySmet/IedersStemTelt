@@ -46,6 +46,7 @@
     <Compile Include="IGebruikerRepository.cs" />
     <Compile Include="IVraagRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitOfWork.cs" />
     <Compile Include="VraagRepositoryHC.cs" />
   </ItemGroup>
   <ItemGroup>
