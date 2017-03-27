@@ -1,5 +1,0 @@
-C:\Users\Gwen\Dropbox\A_TI1617KdG\Integratieproject_1617\IedersStemTeltPOC\Domain\bin\Debug\IST.BL.Domain.dll
-C:\Users\Gwen\Dropbox\A_TI1617KdG\Integratieproject_1617\IedersStemTeltPOC\Domain\bin\Debug\IST.BL.Domain.pdb
-C:\Users\Gwen\Dropbox\A_TI1617KdG\Integratieproject_1617\IedersStemTeltPOC\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
-C:\Users\Gwen\Dropbox\A_TI1617KdG\Integratieproject_1617\IedersStemTeltPOC\Domain\obj\Debug\IST.BL.Domain.dll
-C:\Users\Gwen\Dropbox\A_TI1617KdG\Integratieproject_1617\IedersStemTeltPOC\Domain\obj\Debug\IST.BL.Domain.pdb
