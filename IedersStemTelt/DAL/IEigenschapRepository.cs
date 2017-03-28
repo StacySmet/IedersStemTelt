@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IST.DAL
 {
-    interface IEigenschapRepository
+    public interface IEigenschapRepository
     {
         //Eigenschap
         Eigenschap CreateEigenschap(Eigenschap eigenschap);

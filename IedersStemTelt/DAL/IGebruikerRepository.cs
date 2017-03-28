@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IST.DAL
 {
-    interface IGebruikerRepository
+    public interface IGebruikerRepository
     {
         //Personage
         Personage CreatePersonage(Personage personage);
