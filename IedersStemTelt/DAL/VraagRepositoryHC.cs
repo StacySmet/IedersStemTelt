@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IST.DAL
 {
-    class VraagRepositoryHC : IVraagRepository
+    public class VraagRepositoryHC : IVraagRepository
     {
         private List<Thema> themas;
         private List<Vraag> vragen;
