@@ -12,7 +12,6 @@ namespace IST.BL.Domain
     {
         public int VoorwaardeId { get; set; }
         public Eigenschap Eigenschap { get; set; }
-        public string Waarde { get; set; }
     }
 
 
